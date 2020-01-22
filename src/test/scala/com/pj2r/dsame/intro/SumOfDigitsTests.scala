@@ -18,4 +18,6 @@ class SumOfDigitsTests extends AnyFunSuite {
       }
     }
   })
+
+  test("More scenarios") (pending)
 }
